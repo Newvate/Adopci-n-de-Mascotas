@@ -1,0 +1,3 @@
+Apellidos y Nombres: Martinez Sabino Jeanpiero Sartor
+Carrera: Desarrollo de Sistemas de Información
+Edad: 25 años
