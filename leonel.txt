@@ -1,0 +1,3 @@
+Apellidos y Nombres: Leonel Chamorro Cajahuaman
+Carrera: Desarrollo de Sistemas de Información
+Edad: 19 años
