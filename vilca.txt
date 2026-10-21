@@ -1,0 +1,4 @@
+apellidos y nombres: vilca espinoza gelsin
+carrera: desarrollo de sistemas de informacion
+edad: 19git
+ciudad:
