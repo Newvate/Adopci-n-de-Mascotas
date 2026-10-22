@@ -1,0 +1,3 @@
+Apellidos y Nombres: Serna Geronimo A. Diana
+Carrera: Desarrollo de Sistemas de Información
+Edad: 22 años
