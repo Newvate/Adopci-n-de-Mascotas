@@ -1,0 +1,4 @@
+Apellidos y Nombres: Rojas Narciso WIlder Andy
+Edad: 20 años
+Lugar de Nacimiento: Huanuco 
+Carrera: Desarrollo de Sistemas de Información
