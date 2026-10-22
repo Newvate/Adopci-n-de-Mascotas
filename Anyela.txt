@@ -1,0 +1,3 @@
+Nombre y Apellido: Anyela Robles Pasquel
+Carrera: Desarrollo de Sistemas de Información
+Edad: 19
