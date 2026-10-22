@@ -1,0 +1,3 @@
+Apellidos y Nombres: Chira Diaz Andrea Marina
+Edad: 20
+Facultad: Desarrollo de Sistemas de Información
